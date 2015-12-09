@@ -15,7 +15,7 @@ This is a [Jekyll](http://jekyllrb.com/) page
 
 ## Deployment (for those who have the privileges)
 1. Go to app folder
-2. Run 'jekyll build'
+2. Run `jekyll build`
 3. Just copy the `_site` folder to your public www directory, 
 e.g. `scp -r _site/. dtp16@pcai042.informatik.uni-leipzig.de:public_html/`
 
