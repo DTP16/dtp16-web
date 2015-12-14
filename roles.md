@@ -4,7 +4,8 @@ title: Rollenverteilung
 permalink: /roles/
 ---
 
-Projektbetreuer: Robert Rößling<br />
+Projektbetreuer: Natanael Arndt<br />
+Tutor: Robert Rößling<br />
 Projektleitung: Christian Frommert<br />
 Technischer Assistent: Elias Saalmann<br />
 Implementierung: Simon Jakobi<br />
