@@ -4,4 +4,11 @@ title: Rollenverteilung
 permalink: /roles/
 ---
 
-Projektleitung: Christian Frommert
+Projektbetreuer: Robert Rößling<br />
+Projektleitung: Christian Frommert<br />
+Technischer Assistent: Elias Saalmann<br />
+Implementierung: Simon Jakobi<br />
+Modellierung: Arne Jonas Präger<br />
+Qualitätssicherung + Dokumentation: Maxi Bornmann<br />
+Recherche: Georg Hackel<br />
+Test: Eric Füg<br />
