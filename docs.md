@@ -1,0 +1,7 @@
+---
+layout: page
+title: Docs
+permalink: /docs/
+---
+
+<a href="risikoanalyse.pdf">Risikoanalyse</a>
