@@ -5,7 +5,7 @@ date:   2016-01-07 21:34:00 +0100
 categories: allgemein protokolle
 ---
 <b>Anwesende Personen:</b> (alle)<br />
-Nathanael Arndt<br />
+Natanael Arndt<br />
 Robert Rößling<br />
 Christian Frommert<br />
 Elias Saalmann<br />
@@ -27,7 +27,7 @@ Als erstes wurde noch einmal geklärt was genau im Recherchebericht enthalten se
 Input zu Begriffen und Konzepten ist bereits vorhanden, Bereich Aspekte muss noch weiter ausgeführt werden mit exakten Tools, die zur Bewältigung der Aufgabenstellung herangezogen werden können. 
 Auflistung mit Evaluationskriterien gibt es bereits, Christian schreibt Aspekte zuende.<br />
 Deadline zur Abgabe ist der 07.01.2016, 23:59 Uhr laut Robert<br />
-Elias stellte einige tiefergehende Fragen an Nathanael: Sollen Queries auf den Daten stattfinden oder sollen alle Ressourcen zur Erstellung herangezogen werden?<nr />
+Elias stellte einige tiefergehende Fragen an Natanael: Sollen Queries auf den Daten stattfinden oder sollen alle Ressourcen zur Erstellung herangezogen werden?<nr />
 Antwort: Am besten beides, default alle (und Erstellung einer HTML-Seite pro Ressource und Verlinkung untereinander), wenn gewünscht aber auch (SPARQL) Anfragen, 
 sodass man für bestimmte Klassen bestimmte Templates festlegen kann. Es soll außerdem Einschränkungen der URLs und Queries geben.<br />
 Für die leere Anfrage (d.h. alle Ressourcen sollen verarbeitet werden) soll ein Template ähnlich DBpedia bestehen (Beispiel: <a href="http://de.dbpedia.org/page/Germany">DBPedia</a>).
